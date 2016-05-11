@@ -1,0 +1,6 @@
+﻿{
+    'roomList' : [
+        { "title": "rum1", "slug": "rum1" },
+        { "title": "rum2", "slug": "rum2" } 
+    ]
+}
